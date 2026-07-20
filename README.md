@@ -74,7 +74,7 @@ Currently building real-world projects in SQL, Python, Excel, Tableau, and Power
 
 💼 LinkedIn:https://www.linkedin.com/in/vikas-patil-429a92323
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/iamvikaspatil/iamvikaspatil
 
 📧 Email: vikaspatil0805@gmail.com 
 
