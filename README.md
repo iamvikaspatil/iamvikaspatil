@@ -11,7 +11,7 @@ Currently building real-world projects in SQL, Python, Excel, Tableau, and Power
 
 ## 🚀 About Me
 
-- 🎓 BCA Student (Final Year)
+- 🎓 BCA Student
 - 📊 Aspiring Data Analyst
 - 🌱 Currently learning Data Analytics
 - 💻 Skilled in SQL, Python, Excel, Tableau
@@ -52,9 +52,6 @@ Currently building real-world projects in SQL, Python, Excel, Tableau, and Power
 ### 📈 Excel Dashboard
 - Interactive dashboard using Pivot Tables and Charts
 
-### 📉 Tableau Dashboard
-- Built interactive dashboards to visualize business insights
-
 ---
 
 ## 📊 GitHub Stats
@@ -75,11 +72,11 @@ Currently building real-world projects in SQL, Python, Excel, Tableau, and Power
 
 ## 🤝 Connect with Me
 
-💼 LinkedIn: (Add your LinkedIn URL)
+💼 LinkedIn:https://www.linkedin.com/in/vikas-patil-429a92323
 
 💻 GitHub: https://github.com/YOUR_USERNAME
 
-📧 Email: your-email@example.com
+📧 Email: vikaspatil0805@gmail.com 
 
 ---
 
